@@ -1,0 +1,24 @@
+
+l
+java:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë”ÿ¶8€ƒàŸÚ1
+l
+java:S2095/"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë”ÿ¶8ŸÔŸÚ1
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë”ÿ¶8ŸÔŸÚ1
+l
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë”ÿ¶8€ƒàŸÚ1
+l
+java:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(öã®®8ŸÔŸÚ1
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ë”ÿ¶8ŸÔŸÚ1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(İµï„üÿÿÿÿ8¢ÔŸÚ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶€‚±8¢ÔŸÚ1
+E	java:S108")Either remove or fill this block of code.(¨šşµ8¤ÔŸÚ1
+C
+java:S1905%"'Remove this unnecessary cast to "Date".(ëè×a8¥ÔŸÚ1
+C
+java:S19059"'Remove this unnecessary cast to "Date".(ëè×a8ë¾ÜŸÚ1
+P
+java:S1128".Remove this unused import 'org.h2.store.Data'.(˜·ğ øÿÿÿÿ8‰ƒàŸÚ1

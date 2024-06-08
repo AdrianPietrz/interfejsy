@@ -1,0 +1,11 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Üó8ş¼·Ú1
+W
+java:S1161":Add the "@Override" annotation above this method signature( Üó8ÿ¼·Ú1
+o
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Çä#8 ç­òÚ1
+ƒ
+java:S1989&"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÕˆêøÿÿÿÿ8¢ç­òÚ1
+
+java:S1989,"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Ó‘ûÿÿÿÿÿ8¥ç­òÚ1

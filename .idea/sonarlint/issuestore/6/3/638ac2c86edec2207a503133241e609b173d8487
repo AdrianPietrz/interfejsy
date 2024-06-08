@@ -1,0 +1,13 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8úİçôÙ1
+g	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾‚èôÙ1
+€
+java:S14882"cImmediately return this expression instead of assigning it to the temporary variable "loginedUser".(Ò®ƒô8œûãôÙ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ê¤Û¡ùÿÿÿÿ8¤ûãôÙ1
+K
+java:S1172".Remove this unused method parameter "request".(Ù«ÆÑ8‡àåôÙ1
+J
+java:S4925"-Remove this "Class.forName()", it is useless.(›‡ªœ8‰ŞçôÙ1
+]	java:S125,"<This block of commented-out lines of code should be removed.(–Âµıÿÿÿÿ8¥ûãôÙ1
+L	java:S106:"+Replace this use of System.out by a logger.(«˜öùÿÿÿÿ8¦ûãôÙ1
